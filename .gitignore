@@ -9,5 +9,3 @@ config.json
 open-health-inspection-api.iml
 .DS_Store
 
-# Data Files
-livesData/
